@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**coelhomariana/coelhomariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hello! ✨
+### Hello! ✨
 I'm Mariana, a junior web developer from Porto Alegre, Brazil. 
 
 💻 I'm looking for a job as a developer.
