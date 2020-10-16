@@ -9,7 +9,7 @@ I'm Mariana, a junior web developer from Porto Alegre, Brazil.
 I'm developing new projects using: 
 - Typescript
 - Javascript
-- ReactJS
+- ReactJS + Redux
 - Hooks
 - Leaflet
 - Insomnia
