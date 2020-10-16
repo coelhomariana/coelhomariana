@@ -13,6 +13,6 @@ I'm currently developing some full-stack projects using:
 - Hooks
 - Leaflet
 - Insomnia
-- sqlITE3
+- SQLite
 - Beekeper
 - NodeJS
